@@ -6,8 +6,6 @@ An interactive **Finance Analytics Dashboard** built in **Power BI** to analyze 
 
 ## 📸 Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
-
 ![Dashboard Preview](Dashboard.png)
 
 ---
@@ -155,9 +153,9 @@ Through this project, I learned:
 ```
 Finance-Analytics-Dashboard/
 │
-├── Dashboard.pbix
+├── Finance Analytics Dashboard.pbix
 ├── Dashboard.png
-├── Financial Sample(1) .xlsx
+├── Financial Sample.xlsx
 └── README.md
 ```
 
